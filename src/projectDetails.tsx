@@ -1,5 +1,3 @@
-//import { IFirebaseProject } from './projectList';
-import { Redirect } from 'react-router-dom';
 import moment from 'moment'
 import firebase from 'firebase/app';
 import { useState } from 'react'; 
